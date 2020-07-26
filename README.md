@@ -1,1 +1,1 @@
-# linux-camp
+# Linux Learning Camp
